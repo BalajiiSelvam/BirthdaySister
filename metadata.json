@@ -1,0 +1,6 @@
+{
+  "name": "Birthday Celebration",
+  "description": "A celebration animation transitioning from Nov 15 2008 to Nov 15 2026 with fireworks and a birthday message.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
